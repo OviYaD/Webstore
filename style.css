@@ -575,8 +575,8 @@ form a{
         line-height: 32px;
     }
     #menuBtn{
-        right: 30px;
-        position: absolute;
+        right: 15px;
+        
     }
     .searchBox:hover > .searchInput {
         width: 150px;
